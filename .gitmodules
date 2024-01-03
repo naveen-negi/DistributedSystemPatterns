@@ -1,3 +1,6 @@
 [submodule "PhoneTagSaga"]
 	path = PhoneTagSaga
 	url = https://github.com/naveen-negi/PhoneTagSaga.git
+[submodule "FairyTaleSaga"]
+	path = FairyTaleSaga
+	url = https://github.com/naveen-negi/FairyTaleSaga.git
