@@ -4,3 +4,6 @@
 [submodule "FairyTaleSaga"]
 	path = FairyTaleSaga
 	url = https://github.com/naveen-negi/FairyTaleSaga.git
+[submodule "DataSyncWithReplicatedCache"]
+	path = DataSyncWithReplicatedCache
+	url = https://github.com/naveen-negi/DataSyncWithReplicatedCache.git
